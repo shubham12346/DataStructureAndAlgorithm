@@ -23,7 +23,7 @@ public class floorInBST {
             root = root.right;
         }
         else{
-            root = root.left
+            root = root.left;
         }
     }
     return floor;
